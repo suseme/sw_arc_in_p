@@ -6,9 +6,14 @@ url: ""
 
 # Build settings
 
-remote_theme: pages-themes/leap-day@v0.2.0
+## For gitbook theme
+remote_theme: sighingnow/jekyll-gitbook
 plugins:
 - jekyll-remote-theme
-
-show_downloads: false
-google_analytics: UA-28333273-1
+syntax_highlighter_style: colorful
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+tracker:
+  google_analytics: "UA-28333273-1"
