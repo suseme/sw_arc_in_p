@@ -1,19 +1,27 @@
-title: Arc
-email: vin@misday.com
-description: ""
-baseurl: ""
-url: ""
+# title: Arc
+# email: vin@misday.com
+# description: ""
+# baseurl: ""
+# url: ""
 
-# Build settings
+title: 软件架构实践（第四版）
+description: 软件架构实践（第四版）中文。
 
-## For gitbook theme
-remote_theme: sighingnow/jekyll-gitbook
-plugins:
-- jekyll-remote-theme
-syntax_highlighter_style: colorful
-toc:
-  enabled: true
-  h_min: 1
-  h_max: 3
-tracker:
-  google_analytics: "UA-28333273-1"
+# Development server config, needed to load some of the content
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
+
+# Theme settings
+site_author: Vin
+repo_url: 'https://github.com/suseme/xxxx'
+edit_on_github: false
+github_docs_folder: false
+logo: '/assets/img/image.png'
+site_favicon: '/assets/img/favicon.ico'
+sticky_navigation: true
+prev_next_buttons_location: both
+search_enabled: true
+google_analytics: UA-28333273-1
+google_analytics_anonymize_ip: true
+hljs_style: github-gist
