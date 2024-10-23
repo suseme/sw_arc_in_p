@@ -1,16 +1,35 @@
 ---
 layout: default
-title: Local Development Index Page
+title: 软件架构实践，第四版
 nav_order: 1
 ---
 
-# Local Development Index Page
+- Len Bass （林·巴斯）
+- Paul Clements （保罗·克莱门茨）
+- Rick Kazman （瑞克·凯兹曼）
 
-This index page is only visible if developing the theme as Jekyll is served
-from the repository top directory.
+_中文由机器翻译，主要依赖 [Bing翻译](https://cn.bing.com/translator)，在明显的错误处作了简单地调整。_
 
-The Docs folder index page can be reached following
-[this link](docs/index.html).
+_如有copyright问题，请联系。_
 
-In the normal GitHub Pages deployment the Docs index can be reached clicking
-on the home link at the top of the left navigation bar.
+------
+
+**构建现代软件的权威、实用、经过验证的指南 —— 全面更新了有关移动性、云、能源管理、DevOps、量子计算等的新内容**
+
+更新了十一个新章节，***软件架构实践，第四版***，彻底解释了什么是软件架构，为什么它很重要，以及如何以规范和有效的方式设计、实例化、分析、发展和管理它。
+
+三位著名的软件架构师涵盖了整个生命周期，提供了实用的指导、专家方法和经过测试的模型，可用于任何项目，无论多么复杂。你将学习如何使用架构来满足需求、系统规模和抽象的加速增长，并在系统以新方式动态组合时管理紧急质量属性。
+
+本指南提供了有关利用架构优化关键质量属性（包括性能、可修改性、安全性、可用性、互操作性、可测试性、易用性、可部署性等）的见解，介绍了如何管理和优化现有架构，对其进行转换以解决新问题，以及构建可重用的架构，成为战略业务资产。
+
+- 了解架构如何影响（以及受其影响）技术环境、项目生命周期、业务概况和你自己的实践
+
+- 利用经过验证的模式、接口和实践，通过架构优化质量
+
+- 为移动应用、云、机器学习和量子计算的架构师
+
+- 针对能源效率和安全性等日益重要的属性进行设计
+
+- 通过发现架构上的重要影响、使用 DevOps 和部署管道以及管理架构债务来扩展系统
+
+- 了解架构在组织中的角色，以便提供更多价值
