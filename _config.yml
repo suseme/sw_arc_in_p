@@ -17,7 +17,7 @@ site_author: Vin
 repo_url: 'https://github.com/suseme/arc_n_p'
 edit_on_github: false
 github_docs_folder: false
-logo: '/assets/img/cover.jpeg'
+logo: '/assets/img/cover.jpg'
 site_favicon: '/assets/img/favicon.ico'
 sticky_navigation: true
 prev_next_buttons_location: both
